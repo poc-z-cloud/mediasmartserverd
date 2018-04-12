@@ -1,3 +1,8 @@
+forked from merelin/mediasmartserverd. compiled and installed on an ah342 running ubuntu server 16.4 a year ago, and it works as expected. the only issue i am experiencing is when a new HD is hotpluged in, the light won't work properly. rerun the daemon fix it. folk the repository here in case ever need to enhance it or resompile it.
+
+
+original readme:
+
 mediasmartserverd
 =================
 
